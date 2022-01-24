@@ -1,0 +1,13 @@
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.csprojAssemblyReference.cache
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.Form1.resources
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.Properties.Resources.resources
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.csproj.GenerateResource.cache
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.csproj.CoreCompileInputs.cache
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\bin\Debug\NorthstarModBrowserUpdater.exe.config
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\bin\Debug\NorthstarModBrowserUpdater.exe
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\bin\Debug\NorthstarModBrowserUpdater.pdb
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\bin\Debug\Octokit.dll
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\bin\Debug\Octokit.xml
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.csproj.CopyComplete
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.exe
+C:\Users\HumN\source\repos\NorthstarModBrowserUpdater\NorthstarModBrowserUpdater\obj\Debug\NorthstarModBrowserUpdater.pdb
