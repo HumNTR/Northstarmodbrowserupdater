@@ -51,8 +51,9 @@ namespace NorthstarModBrowserUpdater
             // label1
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(-120, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(651, 55);
@@ -65,7 +66,7 @@ namespace NorthstarModBrowserUpdater
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Yellow;
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(411, 213);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.progressBar1);

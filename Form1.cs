@@ -111,6 +111,11 @@ namespace NorthstarModBrowserUpdater
             label1.Text = "Update Complete";
             string[] temp = { newestVersion.ToString(), TitanfallLocation };
         File.WriteAllLines("NorthStarModBrowser.config",temp);
+            System.IO.File.Delete(installLocation);
+             System.IO.Directory.Delete(Path.Combine(ProgramLocation, "Norhtstarmodbrowser"), true);
+
+
+
 
         }
         public void progressChanged(object sender, DownloadProgressChangedEventArgs e)
